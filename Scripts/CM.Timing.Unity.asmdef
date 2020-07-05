@@ -1,0 +1,15 @@
+{
+    "name": "CM.Timing.Unity",
+    "references": [
+        "GUID:fcb10ab58de700b44894f3a33ab324d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

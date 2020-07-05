@@ -1,0 +1,16 @@
+{
+    "name": "com.cm.timing.unity",
+    "displayName": "CM Timing Unity",
+    "version": "0.1.0",
+    "unity": "2019.3",
+    "author": "Casper Meloen",
+    "description": "CM Timing is a Unity package for time related classes. This package will add classes like Timer, Stopwatch etc...",
+    "dependencies": {
+        "com.cm.timing": "https://github.com/empireboy/com.cm.timing.git"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.timing.unity.git",
+        "revision": ""
+    }
+}
