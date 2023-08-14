@@ -1,6 +1,6 @@
 # CM Timing Unity v0.1.0
 
-CM Timing is a Unity package for time related classes. This package will add classes like Timer, Stopwatch etc...
+CM Timing is a Unity package for time related classes. This package will add classes like Timer.
 
 ## State
 
